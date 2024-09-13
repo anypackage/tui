@@ -14,8 +14,8 @@
     PrivateData = @{
         PSData = @{
             Tags = @('AnyPackage', 'TUI')
-            LicenseUri = 'https://github.com/AnyPackage/Tui/blob/main/LICENSE'
-            ProjectUri = 'https://github.com/AnyPackage/Tui'
+            LicenseUri = 'https://github.com/anypackage/tui/blob/main/LICENSE'
+            ProjectUri = 'https://github.com/anypackage/tui'
         }
     }
     HelpInfoUri = 'https://go.anypackage.dev/help'
