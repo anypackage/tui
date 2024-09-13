@@ -235,13 +235,13 @@ namespace AnyPackage.Tui {
             sourceTableViewTableName = new System.Data.DataColumn();
             sourceTableViewTableName.ColumnName = "Name";
             sourceTableViewTable.Columns.Add(sourceTableViewTableName);
-            System.Data.DataColumn sourceTableViewTableVersion;
-            sourceTableViewTableVersion = new System.Data.DataColumn();
-            sourceTableViewTableVersion.ColumnName = "Version";
-            sourceTableViewTable.Columns.Add(sourceTableViewTableVersion);
+            System.Data.DataColumn sourceTableViewTableLocation;
+            sourceTableViewTableLocation = new System.Data.DataColumn();
+            sourceTableViewTableLocation.ColumnName = "Location";
+            sourceTableViewTable.Columns.Add(sourceTableViewTableLocation);
             System.Data.DataColumn sourceTableViewTableSource;
             sourceTableViewTableSource = new System.Data.DataColumn();
-            sourceTableViewTableSource.ColumnName = "Source";
+            sourceTableViewTableSource.ColumnName = "Trusted";
             sourceTableViewTable.Columns.Add(sourceTableViewTableSource);
             System.Data.DataColumn sourceTableViewTableProvider;
             sourceTableViewTableProvider = new System.Data.DataColumn();
