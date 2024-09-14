@@ -1,7 +1,11 @@
+// Copyright (c) Thomas Nieto - All Rights Reserved
+// You may use, distribute and modify this code under the
+// terms of the MIT license.
 
 using System.Data;
 using System.Management.Automation;
 using System.Text.RegularExpressions;
+
 using AnyPackage.Provider;
 
 namespace AnyPackage.Tui;
