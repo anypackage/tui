@@ -1,6 +1,12 @@
+// Copyright (c) Thomas Nieto - All Rights Reserved
+// You may use, distribute and modify this code under the
+// terms of the MIT license.
+
 using System.Management.Automation;
-using Terminal.Gui;
+
 using AnyPackage.Tui;
+
+using Terminal.Gui;
 
 namespace AnyPackage.Commands;
 
